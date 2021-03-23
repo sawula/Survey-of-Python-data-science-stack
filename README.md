@@ -5,4 +5,4 @@ Files, links for a series of lessons to introduce someone to a Python data scien
 
 * PandasJumble0.csv, PandasJumble1.csv, PandasJumble2.csv added to help practice with select, sort, groupby.
 
-* coldmed.csv added to compare with patterns in NYC ER 
+* coldmed.csv ... 5 years of Google Trends data for 'cold medicine' added to compare with patterns in NYC ER 
