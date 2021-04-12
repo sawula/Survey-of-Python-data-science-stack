@@ -7,4 +7,4 @@ Files, links for a series of lessons to introduce someone to a Python data scien
 
 * coldmed.csv ... 5 years of Google Trends data for 'cold medicine' added to compare with patterns in NYC ER 
 
-* resume.csv is an Kosuke Imai's abridgement of the data from Marianne Bertrand and Sendhil Mullainathan's "Are Emily and Greg more employable than Lakisha and Jamal?" in the American Economic Review, vol. 94, pp. 991-1013. Imai's repo is at https://github.com/kosukeimai/qss/tree/master/CAUSALITY
+* resume.csv is Kosuke Imai's abridgement of the data from Marianne Bertrand and Sendhil Mullainathan's "Are Emily and Greg more employable than Lakisha and Jamal?" in the American Economic Review, vol. 94, pp. 991-1013. Imai's repo is at https://github.com/kosukeimai/qss/tree/master/CAUSALITY
