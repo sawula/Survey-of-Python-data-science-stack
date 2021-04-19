@@ -9,4 +9,4 @@ Files, links for a series of lessons to introduce someone to a Python data scien
 
 * resume.csv is Kosuke Imai's abridgement of the data from Marianne Bertrand and Sendhil Mullainathan's "Are Emily and Greg more employable than Lakisha and Jamal?" in the American Economic Review, vol. 94, pp. 991-1013. Imai's repo is at https://github.com/kosukeimai/qss/tree/master/CAUSALITY
 
-* resume_experiment.dta is more complete data from "...Lakisha..." experiment via Nick Eubank of Duke: https://github.com/nickeubank/MIDS_Data/blob/master/resume_experiment/resume_experiment.dta
+* resume_eoe_city.csv is an abridgement (4 columns) of the Bertrand and Mullainathan data via https://dev.openicpsr.org/openicpsr/project/108486/version/V1/view;jsessionid=D57159F04E26C7F92F83177737DDEDA6
